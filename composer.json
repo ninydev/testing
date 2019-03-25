@@ -1,0 +1,11 @@
+{
+    "name": "ninydev/testing",
+    "authors": [
+        {
+            "name": "Oleksandr Nykytin",
+            "email": "keeper@ninydev.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
